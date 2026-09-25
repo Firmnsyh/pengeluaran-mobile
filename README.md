@@ -7,8 +7,7 @@ Figma hasil Modul 2B melalui design token di `src/theme.js`.
 
 | Tautan | Alamat |
 | ------ | ------ |
-| Prototype Figma | [tempel link Figma di sini] |
-| Laporan PDF | [tempel link laporan / sebutkan disusun terpisah] |
+| Prototype Figma | [https://www.figma.com/design/8LS5vOGbgJzlq7SfsqvRZL/Prototype-Pengeluaran_Muhammad-Yoga-Firmansyah?node-id=0-1&t=T7aSs2i8znOw4Woe-1] |
 | Dosen pengampu | Ahmad Yusuf, M.Kom |
 
 ## Struktur repositori
